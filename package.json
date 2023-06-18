@@ -1,0 +1,10 @@
+{
+  "name": "monorepo",
+  "private": true,
+  "workspaces": [
+    "javascript/hello-world",
+    "projects/project2",
+    "projects/project3"
+  ]
+}
+
