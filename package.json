@@ -3,8 +3,7 @@
   "private": true,
   "workspaces": [
     "javascript/hello-world",
-    "projects/project2",
-    "projects/project3"
+    "python/hello-world"
   ]
 }
 
